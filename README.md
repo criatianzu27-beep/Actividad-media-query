@@ -1,1 +1,1 @@
-Se sube el index y el css y sus recursos
+Se sube el index, el css y sus recursos
